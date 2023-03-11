@@ -15,11 +15,14 @@ Raktkosh is an online platform that allows blood receivers to find and contact d
   - MongoDB
   - React
   - Redux
-  - Sass
+  
 
 ---
 Developed with ❤️️ by
-  - Ajay Andhale
-  - Vinay Patil
-  - Vishal Patil
+  - Snehal Sahane
+  -Manswini Gawas
+  -Jaikiran
+  -Sachin Jadhav
+  -Nilesh Saste
+  
   
