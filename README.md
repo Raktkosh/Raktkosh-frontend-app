@@ -20,7 +20,7 @@ Raktkosh is an online platform that allows blood receivers to find and contact d
 ---
 Developed with ❤️️ by
   - Snehal Sahane
-   Manswini jadhav
+   Manswini gawas
    nilesh saste
    sachin jadhav
    siddhesh
